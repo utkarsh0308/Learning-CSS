@@ -1,23 +1,28 @@
+body {
+    margin: 0;
+}
+
 .top-container {
         background-color: green;
         width: 200px;
         height: 200px;
-        border: solid 20px;
-        padding: 20px;
+        position: absolute;
 }
 
 .middle-container {
         background-color: red;
         width: 200px;
         height: 200px;
-        border: solid 10px;
-        margin-left: 280px;
+        position: absolute;
+        left: 200px;
+        top: 200px;
     }
 
 .bottom-container {
     background-color: yellow;
     width: 200px;
     height: 200px;
-    border: solid 10px;
-    margin-left: 499.2px;
+    position: absolute;
+    left: 400px;
+    top: 400px;
 }
