@@ -13,10 +13,18 @@ h1 {
     font-family: 'sacramento', cursive;
     font-size: 5.5rem;
     margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 2;
 }
 
 h2 {
     font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
 }
 
 .top-container {
@@ -30,7 +38,7 @@ h2 {
     }
 
 .bottom-container {
-    
+    color: #11999E;
 }
 
 .top-cloud {
