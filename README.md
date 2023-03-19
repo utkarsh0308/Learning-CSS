@@ -9,5 +9,5 @@
 
 ## Contact me
 - e-mail: utkarshpathak585@gmail.com
-- - LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe/)
+- LinkedIn[https://www.linkedin.com/in/utkarsh-pathak-756026226/]
 - twitter[https://twitter.com/Utkarsh00346168]
