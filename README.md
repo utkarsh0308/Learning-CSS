@@ -10,4 +10,4 @@
 ## Contact me
 - e-mail: utkarshpathak585@gmail.com
 - LinkedIn[https://www.linkedin.com/in/utkarsh-pathak-756026226/]
-- twitter[https://twitter.com/Utkarsh00346168]
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FUtkarsh00346168)
