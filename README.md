@@ -1,5 +1,7 @@
-# Hi There,I'm Utkarsh👋
+<p style="text-align: center;">
+ <h1> Hi There,I'm Utkarsh👋</h1>
  A programmer and learner passionate about learning and developing. like to read about machine learning and frontend development.
+ </p>
  
  ## Skills
  - HTML/CSS
@@ -15,5 +17,6 @@
 
 ## Contact me
 - e-mail: utkarshpathak585@gmail.com
-- LinkedIn[https://www.linkedin.com/in/utkarsh-pathak-756026226/]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/utkarsh-pathak-756026226/)
+)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FUtkarsh00346168)
