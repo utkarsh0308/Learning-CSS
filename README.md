@@ -3,6 +3,9 @@
  A programmer and learner passionate about learning and developing. like to read about machine learning and frontend development.
  </p>
  
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=utkarsh0308&label=Profile%20views&color=0e75b6&style=flat" alt="sujalsamai" /> </p>
+
+ 
  ## Skills
  - HTML/CSS
  - Javascript
