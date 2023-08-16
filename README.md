@@ -9,7 +9,7 @@
  - HTML/CSS
  - Javascript
  - Java 
- - Datastructures and algorithms
+ - Data structures and algorithms
  
  ##
  <p align="center">
